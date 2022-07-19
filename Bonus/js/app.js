@@ -2,9 +2,7 @@
 
 let nomeUtente = prompt('Qual è il tuo nome?');
 nome.innerHTML = 'Ti chiami ' + nomeUtente
-// console.log('Ti chiami ' + nomeUtente );
-// console.dir(nomeUtente);
-// const nome = document.getElementById('nome');
+
 
 
 
@@ -13,7 +11,6 @@ nome.innerHTML = 'Ti chiami ' + nomeUtente
 
 let cognomeUtente = prompt('Qual è il tuo cognome?');
 cognome.innerHTML = 'Il tuo cognome è ' + cognomeUtente;
-// const cognome = 
 
 // poi chiedi il suo colore preferito
 
