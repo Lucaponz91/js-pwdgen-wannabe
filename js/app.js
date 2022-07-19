@@ -22,4 +22,4 @@ let colorePreferito = prompt('Qual è il tuo colore preferito?')
 let psw = nomeUtente + cognomeUtente + colorePreferito + 21
 console.log(psw)
 console.dir(password)
-password.innerHTML('psw')
+password.innerHTML = psw
